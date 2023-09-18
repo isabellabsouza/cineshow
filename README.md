@@ -23,18 +23,18 @@
 
 ### Modelo de Casos de Uso
  
- ![Casos de Uso](https://github.com/isabellabsouza/cineshow/assets/87506772/d4f336ab-4358-4cbd-a6c4-79dc5a0a16b9)
+ ![Casos de Uso](assets/Casos%20de%20Uso.png)
 
 Os casos de uso na cor azul foram implementados, enquanto que o caso de uso "Validar Ingresso" foi feito pensando em uma estrutura física: antes de entrar na sala onde o filme será exbido, um funcionário do estabelecimento valida o ingresso, para que não posse ser utilizado mais de uma vez.
 
 ### Diagrama de Classes
 
-![diagrama de classes](https://github.com/isabellabsouza/cineshow/assets/87506772/f68562c8-a42f-4196-ba59-243b8b4a733e)
+![diagrama de classes](assets/diagrama%20de%20classes.png)
 
 
 ### Arquitetura
 
-![arquitetura](https://github.com/isabellabsouza/cineshow/assets/87506772/d2ca03c4-b349-43f2-887e-6756e1d7e608)
+![arquitetura](assets/arquitetura.png)
 
 Essa arquitetura foi modelada utilizando o caso de uso "Gerenciar Filmes" como exemplo, mas será replicada para os demais casos de uso.
 
