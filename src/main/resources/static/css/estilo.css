@@ -3,3 +3,11 @@ footer {
     bottom: 0;
     width: 100%;
 }
+
+h1 {
+    color: aliceblue;
+}
+
+label {
+    color: aliceblue;
+}
